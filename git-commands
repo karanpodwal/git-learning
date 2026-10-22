@@ -1,0 +1,39 @@
+ Id CommandLine                                                                                                                          
+  -- -----------                                                                                                                          
+   1 try "c:\Users\karan\AppData\Local\Programs\Microsoft VS Code\07f806f999\resources\app\out\vs\workbench\contrib\terminal\common...
+   2 cls                                                                                                                                  
+   3 git status                                                                                                                           
+   4 git rm --cached .\testing.py                                                                                                         
+   5 cls                                                                                                                                  
+   6 git status                                                                                                                           
+   7 cls                                                                                                                                  
+   8 git add .                                                                                                                            
+   9 cls                                                                                                                                  
+  10 git status                                                                                                                           
+  11 git commit -m "added testing"                                                                                                        
+  12 git status                                                                                                                           
+  13 rm .\testing.py                                                                                                                      
+  14 cls                                                                                                                                  
+  15 git stauts                                                                                                                           
+  16 cls                                                                                                                                  
+  17 git status                                                                                                                           
+  18 git restore testing.py                                                                                                               
+  19 cls                                                                                                                                  
+  20 git status                                                                                                                           
+  21 cls                                                                                                                                  
+  22 git status                                                                                                                           
+  23 git add .                                                                                                                            
+  24 cls                                                                                                                                  
+  25 git status                                                                                                                           
+  26 git commit -m "add git commands"                                                                                                     
+  27 cls                                                                                                                                  
+  28 git status                                                                                                                           
+  29 git remote add origin https://github.com/karanpodwal/git-learning.git                                                                
+  30 git remote -v                                                                                                                        
+  31 git push orgin master                                                                                                                
+  32 cls                                                                                                                                  
+  33 git remote -v                                                                                                                        
+  34 git remote set-url origin https://@github.com/karanpodwal/git-learning.git                   
+  35 git remote -v                                                                                                                        
+  36 cls                                                                                                                                  
+  37 git push origin master      
